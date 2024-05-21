@@ -33,5 +33,5 @@ recognise_from_file(test_file_path, actual_person_index)
 # Identifying instantaneous speech
 recognise_from_microphone()
 
-Lisans:
-Bu proje MIT Lisansı ile lisanslanmıştır.
+Licence:
+This project is licensed under the MIT Licence.
